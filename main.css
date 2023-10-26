@@ -1,0 +1,34 @@
+.flexbox {
+    background-color: #0C356A;
+    display: flex;
+    flex-direction: row;
+    height: 70vh;
+    justify-content: space-evenly;
+}
+
+.flexbox>.card {
+    width: 200px;
+}
+
+.h1 {
+    background-color: #0e1346;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    height: 100px;
+}
+
+h1 {
+    color: #d4ec7a;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: #0174BE;
+}
+
+.b-example-divider {
+    border: 50px outset #0850ad;
+    background-color: lightblue;
+    text-align: center;
+}
